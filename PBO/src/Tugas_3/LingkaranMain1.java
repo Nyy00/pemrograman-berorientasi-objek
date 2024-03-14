@@ -14,7 +14,6 @@ public class LingkaranMain1 {
 
         // mengubah jari-jari l2
         l2 = l3;
-
         // menampilkan jari-jari l1, l2, dan l3
         System.out.println(l1.getJariJari());
         System.out.println(l2.getJariJari());

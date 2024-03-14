@@ -36,4 +36,3 @@ public class Latihan_2 {
         scanner.close();
     }
 }
-

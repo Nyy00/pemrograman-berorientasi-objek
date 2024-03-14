@@ -26,5 +26,3 @@ public class Latihan_4 {
 	        scanner.close();
 	    }
 	}
-
-

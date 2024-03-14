@@ -19,4 +19,3 @@ public class GelasMain {
         g2.setWarna(temp.getWarna());
     }
 }
-
