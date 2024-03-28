@@ -2,7 +2,6 @@ package TUGAS_4;
 
 public class MataKuliah {
 
-
 private String kode;
 private String nama;
 private String indeks;
@@ -16,11 +15,9 @@ public MataKuliah(String kode, String nama, String indeks, int sks) {
     this.indeks = indeks;
     this.sks = sks;
 }
-
 public int getSks() {
     return sks;
 }
-
 public double nilaiIndex() {
     return switch (indeks) {
         case "A" -> 4;
@@ -32,7 +29,6 @@ public double nilaiIndex() {
         default -> 0.0;
     };
 }
-
 public String display() {
     return kode + " - " + nama + " - " + indeks;
 }

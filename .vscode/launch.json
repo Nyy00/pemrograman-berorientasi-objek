@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TranskripNilaiMain",
+            "request": "launch",
+            "mainClass": "TUGAS_5.TranskripNilaiMain",
+            "projectName": "PBO"
+        },
+        {
+            "type": "java",
             "name": "MataKuliahMain",
             "request": "launch",
             "mainClass": "TUGAS_4.MataKuliahMain",
