@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "inheritanceMain1",
+            "request": "launch",
+            "mainClass": "TUGAS_6.inheritanceMain1",
+            "projectName": "PBO"
+        },
+        {
+            "type": "java",
+            "name": "inheritanceMain",
+            "request": "launch",
+            "mainClass": "TUGAS_6.inheritanceMain",
+            "projectName": "PBO"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
