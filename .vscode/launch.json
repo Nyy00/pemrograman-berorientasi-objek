@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "TEST.Test",
+            "projectName": "PBO"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TUGAS_7.Latihan1.Main",
+            "projectName": "PBO"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "TUGAS_7.Tugas.Main",
