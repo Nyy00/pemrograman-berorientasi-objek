@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TUGAS_7.Tugas.Main",
+            "projectName": "PBO"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TUGAS_7.Latihan2.Main",
+            "projectName": "PBO"
+        },
+        {
+            "type": "java",
+            "name": "inheritanceMain1",
+            "request": "launch",
+            "mainClass": "TUGAS_6.inheritanceMain1",
+            "projectName": "PBO"
+        },
+        {
+            "type": "java",
+            "name": "inheritanceMain",
+            "request": "launch",
+            "mainClass": "TUGAS_6.inheritanceMain",
+            "projectName": "PBO"
+        },
+        {
+            "type": "java",
             "name": "TranskripNilaiMain",
             "request": "launch",
             "mainClass": "TUGAS_5.TranskripNilaiMain",
